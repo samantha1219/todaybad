@@ -42,32 +42,32 @@ export default {
 };
 </script>
 <style lang="sass">
-.newsContainer
-    width: 100%
-.newsTitle
-    text-align: center
-    font-size: 64px
-    margin-top: 60px
-    margin-bottom: 60px
-    color: #C7A10D
-.newsFlex
-    width: 90%
-    display: flex
-    flex-direction: row
-    flex-wrap: wrap
-    justify-content: space-between
-    margin: auto
-.newsItem
-    margin-bottom: 30px
-.newsImg
-    width: 630px
-    height: 240px
-    background-size: cover
-.newsText
-    text-align: center
-    font-size: 18px
-    margin-top: 10px
-    color: #C7A10D
+// .newsContainer
+//     width: 100%
+// .newsTitle
+//     text-align: center
+//     font-size: 64px
+//     margin-top: 60px
+//     margin-bottom: 60px
+//     color: #C7A10D
+// .newsFlex
+//     width: 90%
+//     display: flex
+//     flex-direction: row
+//     flex-wrap: wrap
+//     justify-content: space-between
+//     margin: auto
+// .newsItem
+//     margin-bottom: 30px
+// .newsImg
+//     width: 630px
+//     height: 240px
+//     background-size: cover
+// .newsText
+//     text-align: center
+//     font-size: 18px
+//     margin-top: 10px
+//     color: #C7A10D
 </style>
    .newsContainer 
     .newsTitle {{title}}

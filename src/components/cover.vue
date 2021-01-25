@@ -23,14 +23,14 @@ export default {
 //     background-image: url("../assets/abcover.png")
 //     background-size: cover
 //     position: relative
-.coverPhotoo
-    width: 200px
-    height: 200px
-    background-image: url("../assets/4.png")
-    background-size: cover
-    position: absolute
-    left: 20px
-    bottom: 20px
+// .coverPhotoo
+//     width: 200px
+//     height: 200px
+//     background-image: url("../assets/4.png")
+//     background-size: cover
+//     position: absolute
+//     left: 20px
+//     bottom: 20px
 // .coverPhotooo
 //     width: 304px
 //     height:65px
